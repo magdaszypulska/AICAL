@@ -1,0 +1,7 @@
+Data Source:
+
+The data used in this project comes from the "Nutrition Details for Most Common Foods" dataset available on Kaggle. This dataset contains nutritional information for a variety of food items, including their calories, protein, fat, and carbohydrates content.
+
+Dataset link: https://www.kaggle.com/datasets/niharika41298/nutrition-details-for-most-common-foods?resource=download
+
+Please note that the dataset is publicly available and can be accessed and downloaded from the provided Kaggle link.
